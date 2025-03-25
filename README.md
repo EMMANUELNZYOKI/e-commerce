@@ -48,5 +48,5 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 This project is licensed under the MIT License.
 
 ## Contact
-For any questions or suggestions, feel free to reach out via email at [your-email@example.com].
+For any questions or suggestions, feel free to reach out via email at [emmanuelnzyoki777@gmail.com].
 
